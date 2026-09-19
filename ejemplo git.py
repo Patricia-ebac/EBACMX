@@ -5,8 +5,11 @@ b=30
 
 
 #Nueva variable E
+#Añado la variable f como factor de tendencia
 e=1.1
-c=30*10*5/e
+f=5
+
+c=30*10*5/e (1+f/100)
 
 print("el resultado es:",c)
 
