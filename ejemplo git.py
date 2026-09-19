@@ -2,7 +2,13 @@
 #Se añadio la variable c
 a=10
 b=30
-c=30*10*5
+
+
+#Nueva variable E
+e=1.1
+c=30*10*5/e
+
+print("el resultado es:",c)
 
 print("el resultado es:",c)
 
