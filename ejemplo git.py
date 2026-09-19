@@ -6,5 +6,8 @@ c=30*10*5
 
 print("el resultado es:",c)
 
-d=c*100
+#Cambiado el factor 102 segun requerimiento del negocio
+#Cambio a factor 200 por directorio
+
+d=c*200
 print("el resultado total es:",d)
